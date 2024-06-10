@@ -1,1 +1,0 @@
-# bcc-bacharelado-em-ciencia-da-computacao
